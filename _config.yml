@@ -1,6 +1,6 @@
 name: LUV
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.414
 title: luscious universal visualization
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f0f0f0'
-    - '#c3c6ca'
-    - '#8e9090'
-    - '#54534f'
-    - '#2b2219'
+    - '#313131'
+    - '#2090fe'
+    - '#a6a6a6'
+    - '#ffffff'
+    - '#d55f6d'
   brandStrength: 0.0625
   lightness: 0
   saturation: 0
